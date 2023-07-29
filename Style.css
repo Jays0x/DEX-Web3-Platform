@@ -336,8 +336,8 @@ footer {
         right: 0;
         top: 0;
         z-index: 999;
-        height: 100vh;
-        width: 50%;
+        height: 70vh;
+        width: 100%;
         background-color: rgb(255, 255, 255, 0.1);
         backdrop-filter: blur(15px);
         border-radius: 10px;
@@ -352,7 +352,7 @@ footer {
         list-style: none;
     }
     .dropdown button {
-       margin: 150px auto 0;
+       margin: 50px auto 0;
 
     }
     .dropdown li a {
@@ -381,7 +381,7 @@ footer {
         padding: 0 20px;
     }
    .hero_text h1 {
-    font-size: 32px;
+    font-size: 37px;
     width: 100%;
    }
 
@@ -443,6 +443,7 @@ footer {
     padding-bottom: 0;
     justify-content: center;
     align-items: center;
+    gap: 20px;
    }
 
    .props2_text h1 {
@@ -486,6 +487,13 @@ footer {
 
    .card_content {
     margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+   }
+
+   .card_content img {
+    width: 100%;
+    height: 100%;
    }
 
    .card_content h2 {
@@ -519,9 +527,5 @@ footer {
     columns: 3;
     padding: 20px;
    }
-
-  
-
-
 
 }
