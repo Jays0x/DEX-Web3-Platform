@@ -75,7 +75,7 @@ ul li:hover {
 }
 
 .hero {
-    background: url(../Backround.avif);
+    background: url(./Images/Backround.avif);
     height: 90vh;
     width: 100%;
     background-repeat: none;
