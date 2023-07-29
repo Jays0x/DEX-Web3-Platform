@@ -26,6 +26,7 @@ nav {
     font-size: 1.5rem;
     font-weight: bold;
     color: cyan;
+    cursor: pointer;
 }
 
 ul {
@@ -91,13 +92,13 @@ ul li:hover {
     align-items: center;
 }
 .hero_text h1 {
-    font-size: 64px;
+    font-size: 75px;
     color: white;
     width: 60%;
     text-align: center;
     text-transform: capitalize;
     margin: 0 auto;
-    font-weight: 800;
+    font-weight: 700;
 }
 
 .hero_text p {
@@ -156,6 +157,7 @@ ul li:hover {
 .score_text h1 {
     font-size: 40px;
     color: cyan;
+    font-weight: 600;
 }
 
 .score_text p {
@@ -177,6 +179,7 @@ ul li:hover {
     width: 80%;
     margin-bottom: 20px;
     line-height: 60px;
+    font-weight: 600;
 }
 .props_text p {
     opacity: 0.8;
@@ -201,6 +204,7 @@ ul li:hover {
     width: 80%;
     margin-bottom: 20px;
     line-height: 60px;
+    font-weight: 600;
 }
 .props2_text p {
     opacity: 0.8;
@@ -223,6 +227,7 @@ ul li:hover {
     width: 70%;
     text-align: center;
     margin: 0 auto;
+    font-weight: 600;
 }
 .list_header p {
     text-align: center;
@@ -257,6 +262,7 @@ ul li:hover {
 .card_content h2 {
     font-size: 25px;
     margin-bottom: 20px;
+    font-weight: 600;
 }
 
 .card_content p {
@@ -286,6 +292,7 @@ ul li:hover {
     width: 60%;
     line-height: 45px;
     margin-bottom: 20px;
+    font-weight: 600;
 }
 
 .action p {
