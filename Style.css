@@ -5,7 +5,7 @@
 }
 body {
     background-color: #000;
-    font-family: monospace;
+    font-family: 'Kanit', monospace, sans-serif;
 }
 
 nav {
@@ -49,7 +49,7 @@ button {
     border: 1.5px solid cyan;
     background-color: transparent;
     color: cyan;
-    font-family: monospace;
+    font-family: 'Kanit', sans-serif;
     font-weight: 600;
     cursor: pointer;
 }
@@ -121,7 +121,7 @@ ul li:hover {
     border-radius: 20px;
     background-color: black;
     color: cyan;
-    font-family: monospace;
+    font-family: 'Kanit', sans-serif;
     font-weight: 600;
     border: none;
 }
@@ -132,7 +132,7 @@ ul li:hover {
     border: 1.5px solid cyan;
     background-color: transparent;
     color: cyan;
-    font-family: monospace;
+    font-family: 'Kanit', sans-serif;
     font-weight: 600;
 }
 
